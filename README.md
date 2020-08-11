@@ -1,5 +1,4 @@
 # breadboard-pot
-Breadboard-friendly potentiometer module.
 
 These files have been release due to popular demand. This module will made prototyping on breadboard with those pesky potentiometer a thousand times easier.
 
