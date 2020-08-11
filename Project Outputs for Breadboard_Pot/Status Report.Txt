@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Breadboard_Pot.PrjPcb]
+   Generated File[Breadboard_Pot-RoundHoles.TXT]
+   Generated File[Breadboard_Pot-SlotHoles.TXT]
+   Generated File[Breadboard_Pot.LDP]
+   Generated File[Breadboard_Pot.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:18:43 AM On 11-Oct-19

@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Breadboard_Pot.PcbDoc   11-Oct-19  10:18:43 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Breadboard_Pot-RoundHoles.TXT
+ASCII SlotHoles File : Breadboard_Pot-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.899mm)                                           Round             12        PTH        1.50inch (38.10mm)
+T2      39mil (1.001mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T3      71mil (1.801mm)                                           Slot              2         PTH        0.73inch (18.61mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              17
+
+Total Processing Time (hh:mm:ss) : 00:00:00
